@@ -21,8 +21,8 @@ export function Footer() {
                 </div>
 
                 <div className="flex gap-6 text-sm text-muted">
-                    <Link href="#" className="hover:text-white transition-colors">Instagram</Link>
-                    <Link href="#" className="hover:text-white transition-colors">LinkedIn</Link>
+                    <Link href="https://www.instagram.com/orig.in_in/" className="hover:text-white transition-colors">Instagram</Link>
+                    <Link href="https://www.linkedin.com/company/origin-ind/" className="hover:text-white transition-colors">LinkedIn</Link>
                     <Link href="#" className="hover:text-white transition-colors">GitHub</Link>
                 </div>
 
