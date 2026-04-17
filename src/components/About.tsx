@@ -34,6 +34,7 @@ export function About() {
             {[
               { label: 'Founded', value: '2024' },
               { label: 'Parameters', value: '8B+' },
+              { label: 'EFLOPS', value: '380' },
             ].map((stat) => (
               <div key={stat.label}>
                 <div className="text-3xl md:text-4xl font-light text-white mb-2">{stat.value}</div>
