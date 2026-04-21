@@ -5,20 +5,15 @@ import Image from "next/image";
 
 const team = [
     {
-        name: "Bhardwaj Prasad Sutara",
-        role: "Founder, Chief Executive Officer, AI Developer",
-        image: "/bps.png",
+        name: "Priyanshi Singh",
+        role: "Chief Executive Officer, Founder",
+        image: "/rickroll.webp",
     },
     {
         name: "Adarsh Gusain",
-        role: "Co-Founder, Content Strategist, Front-End Developer",
+        role: "Content Strategist, Front-end Developer",
         image: "/rickroll.webp",
     },
-    {
-        name: "Dishant Singh",
-        role: "Co-Founder, Infrastructure Maintenance, Backend Developer",
-        image: "/rickroll.webp",
-    }
 ];
 
 export function Team() {
