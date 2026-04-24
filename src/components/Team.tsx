@@ -1,4 +1,4 @@
-me.png"use client";
+"use client";
 
 import { motion } from "motion/react";
 import Image from "next/image";
@@ -7,7 +7,7 @@ const team = [
     {
         name: "Bhardwaj Prasad Sutara",
         role: "Chief Executive Officer, Founder",
-        image: "/bps.png",
+        image: "/me.png",
     },
 ];
 
