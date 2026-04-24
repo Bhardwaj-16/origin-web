@@ -1,18 +1,13 @@
-"use client";
+me.png"use client";
 
 import { motion } from "motion/react";
 import Image from "next/image";
 
 const team = [
     {
-        name: "Priyanshi Singh",
+        name: "Bhardwaj Prasad Sutara",
         role: "Chief Executive Officer, Founder",
-        image: "/rickroll.webp",
-    },
-    {
-        name: "Adarsh Gusain",
-        role: "Content Strategist, Front-end Developer",
-        image: "/rickroll.webp",
+        image: "/bps.png",
     },
 ];
 
