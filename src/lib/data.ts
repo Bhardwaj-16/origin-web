@@ -73,7 +73,7 @@ export const projects = [
   {
     id: '02',
     name: 'ORIGIN AI',
-    description: 'ORIGIN AI is an Agentic AI system which does tasks for you instead of just talking to you. You give it a goal and it finishes it instead of telling YOU how to do it. It is your coworker instead of an instructor.'
+    description: 'ORIGIN AI is an Agentic AI system which does tasks for you instead of just talking to you. You give it a goal and it finishes it instead of telling YOU how to do it. It is your coworker instead of an instructor.',
     fullDescription: "ORIGIN AI: Building the System That Thinks, Sees, and Acts\n\n" +
           "Something bigger than a chatbot is taking shape.\n\n" +
           "ORIGIN AI is an ambitious step toward a new kind of intelligence system — one that doesn’t just respond, but operates. Instead of treating AI as a single model, ORIGIN is designed as a coordinated network of specialized agents, working together like parts of a living mind.\n\n" +
